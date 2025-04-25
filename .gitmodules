@@ -5,3 +5,6 @@
 [submodule "maestro"]
 	path = maestro
 	url = https://github.com/whipson/maestro
+[submodule "schematic"]
+	path = schematic
+	url = https://github.com/whipson/schematic
